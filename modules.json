@@ -37,5 +37,18 @@
         "author": "BenjiLeLoustik",
         "homepage": "https://github.com/monorg/ApiRestModule",
         "status": "available"
+    },
+        {
+        "key": 9876543210,
+        "name": "ORM/Database",
+        "ico": "🗄️",
+        "description": "Module ORM pour la gestion des entités, des relations et l'accès aux bases de données relationnelles.",
+        "version": "v1.5.0",
+        "min_framework_version": "0.0.1",
+        "max_framework_version": "0.0.1",
+        "download_url": "https://mon-site.com/modules/OrmDatabase.zip",
+        "author": "Jane Smith",
+        "homepage": "https://github.com/monorg/OrmDatabaseModule",
+        "status": "available"
     }
 ]
