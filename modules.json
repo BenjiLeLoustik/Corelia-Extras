@@ -43,7 +43,7 @@
     },
         {
         "key": 9876543210,
-        "name": "OrmDatabase",
+        "name": "ORM",
         "title": "ORM",
         "ico": "🗄️",
         "description": "Module ORM pour la gestion des entités, des relations et l'accès aux bases de données relationnelles.",
