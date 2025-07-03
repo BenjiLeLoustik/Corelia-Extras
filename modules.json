@@ -2,6 +2,7 @@
     {
         "key": 3254781294,
         "name": "Admin",
+        "title": "Administration",
         "ico": "🏢",
         "description": "Interface de gestion centralisée pour configurer et superviser l’ensemble de votre framework..",
         "version": "v2.3.1",
@@ -15,6 +16,7 @@
     {
         "key": 2837461289,
         "name": "ApiRest",
+        "title": "ApiRest",
         "ico": "🌐",
         "description": "Composant API REST pour les applications.",
         "version": "v2.3.1",
@@ -28,6 +30,7 @@
     {
         "key": 1093847623,
         "name": "Authentification",
+        "title": "Auth",
         "ico": "🔒",
         "description": "Gère la connexion et l'inscription des utilisateurs.",
         "version": "v1.8.0",
@@ -40,7 +43,8 @@
     },
         {
         "key": 9876543210,
-        "name": "ORM/Database",
+        "name": "OrmDatabase",
+        "title": "ORM",
         "ico": "🗄️",
         "description": "Module ORM pour la gestion des entités, des relations et l'accès aux bases de données relationnelles.",
         "version": "v1.5.0",
