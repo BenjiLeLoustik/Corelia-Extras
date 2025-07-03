@@ -1,5 +1,6 @@
 [
     {
+        "key": 2837461289,
         "name": "ApiRest",
         "ico": "🌐",
         "description": "Composant API REST pour les applications.",
@@ -11,8 +12,8 @@
         "homepage": "https://github.com/monorg/ApiRestModule",
         "status": "available"
     },
-
     {
+        "key": 1093847623,
         "name": "Authentification",
         "ico": "🔒",
         "description": "Gère la connexion et l'inscription des utilisateurs.",
