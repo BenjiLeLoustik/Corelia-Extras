@@ -29,7 +29,7 @@
     },
     {
         "key": 1093847623,
-        "name": "Authen",
+        "name": "Authentification",
         "title": "Auth",
         "ico": "🔒",
         "description": "Gère la connexion et l'inscription des utilisateurs.",
